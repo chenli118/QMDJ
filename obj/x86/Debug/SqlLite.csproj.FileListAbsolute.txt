@@ -1,0 +1,12 @@
+F:\study\2011\WinForm\SqlLite\SqlLite\bin\Debug\SqlLite.exe
+F:\study\2011\WinForm\SqlLite\SqlLite\bin\Debug\SqlLite.pdb
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\SqlLite.Form1.resources
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\SqlLite.Properties.Resources.resources
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\SqlLite.exe
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\SqlLite.pdb
+F:\study\2011\WinForm\SqlLite\SqlLite\bin\Debug\SqlLite.exe.config
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\study\2011\WinForm\SqlLite\SqlLite\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\study\2011\WinForm\SqlLite\SqlLite\bin\Debug\System.Data.SQLite.dll
+F:\study\2011\WinForm\SqlLite\SqlLite\bin\Debug\System.Data.SQLite.xml
