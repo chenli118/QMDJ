@@ -334,19 +334,20 @@ namespace QMDJ
         }
         private int GetJu(string gz)
         {
-            int ju = -1;           
+            int ju = -1;
+            int x = 0;
             int yuan = -1;
             for (int i = 0; i < 60; i++)
             {
                 if (gz60[i] == gz)
                 {
-                    i = i + 1;
+                    x = x + 1;
                     if (i > 15)
                     {
-                        i = i % 15;
+                        x = i % 15;
                     }
-                    if (i > 0 && i <= 5) yuan = 1;
-                    else if (i / 5 <= 2) yuan = 2;
+                    if (x > 0 && x <= 5) yuan = 1;
+                    else if (x / 5 <= 2) yuan = 2;
                     else yuan = 3;
                     break;                          
                 }
