@@ -99,6 +99,7 @@
     </Compile>
     <None Include="app.config" />
     <Compile Include="DyadicArrayHelper.cs" />
+    <None Include="Doc\浅谈奇门遁甲的设计.pdf" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
