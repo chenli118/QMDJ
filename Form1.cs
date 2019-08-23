@@ -183,7 +183,7 @@ namespace QMDJ
                 if (gz60[i].EndsWith(startz))
                     d++;
                 else if (d > 0) { d++;}
-                if ( gz60[i].EndsWith(nearz)) break;                
+                if (d > 0&& gz60[i].EndsWith(nearz)) break;                
             }
             return d-1;
         }
@@ -347,7 +347,7 @@ namespace QMDJ
                         x = i % 15;
                     }
                     if (x > 0 && x <= 5) yuan = 1;
-                    else if (x / 5 <= 2) yuan = 2;
+                    else if (x / 5 < 2 || x ==10) yuan = 2;
                     else yuan = 3;
                     break;                          
                 }
